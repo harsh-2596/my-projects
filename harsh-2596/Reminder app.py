@@ -5,6 +5,7 @@
 # Physical activity - physical.mp3 every - 45 min - ExDone - log
 # Rules
 # Pygame module to play audio
+# please add the audio files in your current directory 
 
 import schedule
 import time
